@@ -241,7 +241,7 @@ export default function Aboutus() {
                             <div className='Aboutus_title'>WHAT I DO</div>
                             <div className='Aboutus_text' style={{ position: "relative" }}>
                                 <div className='linePitchDote1'><img src={linePitchDote} /></div>
-                                I am a dedicated MERN web developer, proficient in MongoDB, Express.js, React.js, and Node.js. Specializing in crafting dynamic and responsive web applications, I blend technical expertise with creative problem-solving to deliver seamless user experiences. My passion lies in staying at the forefront of technology trends, ensuring my projects are innovative and up-to-date. With a commitment to clean and efficient code, I strive to contribute to the evolving landscape of web development.
+                                I am a dedicated MERN Web Developer, proficient in MongoDB, Express.js, React.js, and Node.js. Specializing in crafting dynamic and responsive web applications, I blend technical expertise with creative problem-solving to deliver seamless user experiences. My passion lies in staying at the forefront of technology trends, ensuring my projects are innovative and up-to-date. With a commitment to clean and efficient code, I strive to contribute to the evolving landscape of web development.
                                 <div className='linePitchDote2'><img src={linePitchDote} /></div>
                                 <div className='Path1'><img src={Path1} /></div>
                             </div>
