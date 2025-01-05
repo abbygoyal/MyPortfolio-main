@@ -402,7 +402,7 @@ export default function Banner() {
                   MERN <br /> WEB DEVELOPER
                 </div>
                 <div className="banner_text">
-                  MERN web developer excelling in MongoDB, Express.js, React.js,
+                  MERN Web Developer excelling in MongoDB, Express.js, React.js,
                   Node.js. Committed to crafting seamless, responsive
                   applications
                 </div>
